@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-color: #ecd4d4;
+   
+    
+
+}
+.heads{
+    text-align: center;
+    font-family:serif ;
+    letter-spacing: 500;
+    margin-left: 20;
+
+}
+img{
+    width: 150;
+    border-radius: 50%;
+    
+}
+section{
+    margin: 20px;
+}
+h1{
+    background-color:rgb(193, 193, 241);
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+
+    
+    
+}
+p{
+    background-color: rgb(229, 204, 172);
+    text-align: calc(20);
+    
+}
+.myname{
+    text-align: center;
+    font-family:serif;
+    text-decoration: underline;
+    text-shadow: #7d3535;
+    font-weight: 1000;
+    
+    
+}
